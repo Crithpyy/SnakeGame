@@ -7,7 +7,7 @@ delay=0.1
 # Set up screen
 win = turtle.Screen()
 win.title("Snake game")
-win.bgpic("C:/Users/Crithpy/Desktop/Pythonstuff/GUI/background600.png")
+win.bgcolor("green")
 win.setup(width=600, height=600)
 win.tracer(0)
 
